@@ -1,4 +1,4 @@
-# 🚀 Awesome Developer Portfolio
+# 🚀 Yaman Kumar Dewangan Portfolio
 
 👋 Hi there! I’m **An experienced frontend developer** with  
 🎯 **7 years** of building beautiful and performant web applications!
@@ -34,16 +34,13 @@
 
 ## 📦 Projects
 
-- 🔥 **Project 1** → Brief description here  
-- 🌊 **Project 2** → Brief description here  
-- ✨ **Project 3** → Brief description here
+- 🔥 **Project 1** →   
+- 🌊 **Project 2** →   
+- ✨ **Project 3** → 
 
 ---
 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-npm start
+- will share later :)
